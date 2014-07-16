@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="NewsCycle-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="NewsCycle-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="NewsCycle-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="NewsCycle-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="NewsCycle-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="NewsCycle-Regular.ttf._h_m_t_x.ttx"/>
+  <LTSH src="NewsCycle-Regular.ttf.L_T_S_H_.ttx"/>
+  <VDMX src="NewsCycle-Regular.ttf.V_D_M_X_.ttx"/>
+  <hdmx src="NewsCycle-Regular.ttf._h_d_m_x.ttx"/>
+  <cmap src="NewsCycle-Regular.ttf._c_m_a_p.ttx"/>
+  <fpgm src="NewsCycle-Regular.ttf._f_p_g_m.ttx"/>
+  <prep src="NewsCycle-Regular.ttf._p_r_e_p.ttx"/>
+  <cvt src="NewsCycle-Regular.ttf._c_v_t.ttx"/>
+  <loca src="NewsCycle-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="NewsCycle-Regular.ttf._g_l_y_f.ttx"/>
+  <kern src="NewsCycle-Regular.ttf._k_e_r_n.ttx"/>
+  <name src="NewsCycle-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="NewsCycle-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="NewsCycle-Regular.ttf._g_a_s_p.ttx"/>
+  <GDEF src="NewsCycle-Regular.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="NewsCycle-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="NewsCycle-Regular.ttf.G_S_U_B_.ttx"/>
+</ttFont>
