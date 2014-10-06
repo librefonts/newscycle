@@ -1,0 +1,33 @@
+{
+  "name": "News Cycle",
+  "designer": "Nathan Willis",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 52837,
+  "fonts": [
+    {
+      "name": "News Cycle",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NewsCycle-Bold.ttf",
+      "postScriptName": "NewsCycle",
+      "fullName": "News Cycle",
+      "copyright": "Created by Nathan Willis,,, with FontForge 2.0 (http://fontforge.sf.net)"
+    },
+    {
+      "name": "News Cycle",
+      "style": "normal",
+      "weight": 500,
+      "filename": "NewsCycle-Regular.ttf",
+      "postScriptName": "NewsCycle",
+      "fullName": "News Cycle",
+      "copyright": "Created by Nathan Willis,,, with FontForge 2.0 (http://fontforge.sf.net)"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-04-27"
+}

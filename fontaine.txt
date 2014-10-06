@@ -1,0 +1,89 @@
+Fonts
+  All fonts do NOT have the same character sets.
+  Font:
+    Common name: News Cycle
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Created by Nathan Willis,,, with FontForge 2.0 (http://fontforge.sf.net)
+    License: Copyright (c) 2011, Nathan Willis,,, (<URL|email>),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 0.5
+    Glyph count: 713
+    Character count: 711
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 54
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 99
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 46
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 90
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: News Cycle
+    Sub family: Regular
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: no
+    Copyright: Created by Nathan Willis,,, with FontForge 2.0 (http://fontforge.sf.net)
+    License: Copyright (c) 2011, Nathan Willis,,, (<URL|email>),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 0.4
+    Glyph count: 1564
+    Character count: 1562
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-ext
+          Support level: partial
+          Percent coverage: 91
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 73
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 47
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 99
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 99
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: partial
+          Percent coverage: 91
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 61
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: full
